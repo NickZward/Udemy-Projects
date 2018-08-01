@@ -13,5 +13,10 @@ Here are a few of the topics of what I learned:
 - Use plotly for interactive visualizations
 
 ### Excercise 1: SF saleries
+In this excersise I got some practice on my pandas skills. I worked with the SF Salaries Dataset from Kaggle!
+
+[Link to excersice]
+
+[Data used](https://www.kaggle.com/kaggle/sf-salaries)
 
 ### Excercise 2: Ecommerce Purchases
