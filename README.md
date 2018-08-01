@@ -15,7 +15,7 @@ Here are a few of the topics of what I learned:
 ### Excercise 1: SF saleries
 In this excersise I got some practice on my pandas skills. I worked with the SF Salaries Dataset from Kaggle!
 
-[Link to excersice]
+[Link to excersice](https://github.com/NickZward/Udemy-Projects/blob/master/SF%20Salaries%20Exercise.ipynb)
 
 [Data used](https://www.kaggle.com/kaggle/sf-salaries)
 
