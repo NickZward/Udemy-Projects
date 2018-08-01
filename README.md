@@ -20,6 +20,6 @@ In this excersise I got some practice on my pandas skills. I worked with the SF 
 [Data used](https://www.kaggle.com/kaggle/sf-salaries)
 
 ### Excercise 2: Ecommerce Purchases
-In this Exercise I was given given some Fake Data about some purchases done through Amazon! Most of the tasks can be solved in different ways. For the most part, the questions get progressively harder.
+In this Exercise I was given given some Fake Data about some purchases done through Amazon! Most of the tasks can be solved in different ways. For the most part, the questions got progressively harder.
 
-[Link to excercise]
+[Link to excercise](https://github.com/NickZward/Udemy-Projects/blob/master/Ecommerce%20Purchases%20Exercise%20.ipynb)
