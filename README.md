@@ -24,3 +24,20 @@ In this excersise I got some practice on my pandas skills. I worked with the SF 
 In this Exercise I was given given some Fake Data about some purchases done through Amazon! Most of the tasks can be solved in different ways. For the most part, the questions got progressively harder.
 
 [Link to excercise](https://github.com/NickZward/Udemy-Projects/blob/master/Ecommerce%20Purchases%20Exercise%20.ipynb)
+
+### Excersise 3: 911 calls capstone project
+For this capstone project I analyzed some 911 call data from Kaggle. The data contains the following fields:
+
+lat : String variable, Latitude
+lng: String variable, Longitude
+desc: String variable, Description of the Emergency Call
+zip: String variable, Zipcode
+title: String variable, Title
+timeStamp: String variable, YYYY-MM-DD HH:MM:SS
+twp: String variable, Township
+addr: String variable, Address
+e: String variable, Dummy variable (always 1)
+
+[Link to project]
+
+[Data used](https://www.kaggle.com/mchirico/montcoalert)
