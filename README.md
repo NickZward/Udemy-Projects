@@ -45,4 +45,4 @@ e: String variable, Dummy variable (always 1)
 ### Excersise 4: Finance Data Project
 In this data project I focused on exploratory data analysis of stock prices. This project was just meant to practice my visualization and pandas skills. I focused on bank stocks and saw how they progressed throughout the financial crisis all the way to early 2016.
 
-[Link to project]
+[Link to project](https://github.com/NickZward/Udemy-Projects/blob/master/Finance%20Project%20.ipynb)
