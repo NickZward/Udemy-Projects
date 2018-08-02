@@ -38,6 +38,6 @@ twp: String variable, Township
 addr: String variable, Address
 e: String variable, Dummy variable (always 1)
 
-[Link to project]
+[Link to project](https://github.com/NickZward/Udemy-Projects/blob/master/911%20Calls%20Data%20Capstone%20Project%20.ipynb)
 
 [Data used](https://www.kaggle.com/mchirico/montcoalert)
